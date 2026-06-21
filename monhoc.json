@@ -1,0 +1,72 @@
+[
+  {
+    "ma_mon": "MI3310",
+    "ten_mon": "Kỹ thuật lập trình",
+    "so_tin_chi": 3,
+    "khoa_vien": "SAMI",
+    "ty_le_qt": 50
+  },
+  {
+    "ma_mon": "MI2020",
+    "ten_mon": "Cơ sở dữ liệu",
+    "so_tin_chi": 3,
+    "khoa_vien": "SAMI",
+    "ty_le_qt": 30
+  },
+  {
+    "ma_mon": "MI1141",
+    "ten_mon": "Đại số đại cương",
+    "so_tin_chi": 4,
+    "khoa_vien": "SAMI",
+    "ty_le_qt": 40
+  },
+  {
+    "ma_mon": "MI2010",
+    "ten_mon": "Toán rời rạc",
+    "so_tin_chi": 3,
+    "khoa_vien": "SAMI",
+    "ty_le_qt": 30
+  },
+  {
+    "ma_mon": "PH1120",
+    "ten_mon": "Vật lý đại cương II",
+    "so_tin_chi": 4,
+    "khoa_vien": "Viện VLKT",
+    "ty_le_qt": 30
+  },
+  {
+    "ma_mon": "IT1110",
+    "ten_mon": "Tin học đại cương",
+    "so_tin_chi": 4,
+    "khoa_vien": "SOICT",
+    "ty_le_qt": 30
+  },
+  {
+    "ma_mon": "IT3040",
+    "ten_mon": "CTDL và Giải thuật",
+    "so_tin_chi": 3,
+    "khoa_vien": "SOICT",
+    "ty_le_qt": 40
+  },
+  {
+    "ma_mon": "EM1170",
+    "ten_mon": "Pháp luật đại cương",
+    "so_tin_chi": 2,
+    "khoa_vien": "Lý luận Chính trị",
+    "ty_le_qt": 30
+  },
+  {
+    "ma_mon": "ME2140",
+    "ten_mon": "Cơ lý thuyết",
+    "so_tin_chi": 3,
+    "khoa_vien": "SME",
+    "ty_le_qt": 30
+  },
+  {
+    "ma_mon": "FL1010",
+    "ten_mon": "Tiếng Anh I",
+    "so_tin_chi": 3,
+    "khoa_vien": "SOFL",
+    "ty_le_qt": 50
+  }
+]
